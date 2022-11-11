@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aya Gamal</h1>
-https://i1.wp.com/stemettes.org/zine/wp-content/uploads/sites/3/2020/07/giphy-3-1.gif?resize=480%2C480&is-pending-load=1#038;ssl=1
+<img align = "center width =" 400 " scr"https://i1.wp.com/stemettes.org/zine/wp-content/uploads/sites/3/2020/07/giphy-3-1.gif?resize=480%2C480&is-pending-load=1#038;ssl=1 ">
 <h3 align="center">An Android developer with a passion for coding and learning I'm interested in new technologies and competitive programming.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aya215-g&label=Profile%20views&color=0e75b6&style=flat" alt="aya215-g" /> </p>
