@@ -6,9 +6,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/aya2156" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="aya2156" height="30" width="40" /></a>
+<a href="https://twitter.com/Aya2156" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="aya2156" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/ayaagaamal/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ayaagaamal/" height="30" width="40" /></a>
-<a href="https://fb.com/https://www.facebook.com/aioush2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/aioush2" height="30" width="40" /></a>
+<a href="https://www.facebook.com/Aioush2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/aioush2" height="30" width="40" /></a>
 </p>
 
 <img src="https://cdn.dribbble.com/users/1162077/screenshots/3917576/support.gif" alt="Coding" class="center" >
